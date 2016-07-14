@@ -1,0 +1,12 @@
+@import 'src/style/main.scss';
+.box {
+     @include border-radius(10px);
+  }
+h1 {
+  color: blue;
+}
+body {
+  background-color: green;
+}
+
+

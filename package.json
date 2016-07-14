@@ -1,0 +1,33 @@
+{
+  "name": "gulp.js",
+  "version": "1.0.0",
+  "description": "dfoultProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.11",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-connect": "^4.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.0",
+    "gulp-rev-append": "^0.1.6",
+    "gulp-rev-outdated": "^0.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uncss": "^1.0.5",
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7",
+    "rimraf": "^2.5.3",
+    "through2": "^2.0.1"
+  },
+  "dependencies": {
+    "gulp-rev-collector": "^1.0.5"
+  }
+}
